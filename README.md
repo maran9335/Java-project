@@ -12,15 +12,16 @@
 
 ## ScreenShots
 ### HOME PAGE
-![Screenshot (3692)](https://github.com/maran9335/Java-project/assets/109018976/3e27e935-4a77-46ca-8244-c5750a3cfec1)
+
+![Screenshot (3696)](https://github.com/maran9335/Java-project/assets/109018976/92aae8e4-3c4e-439f-96e6-cad7d9072b9d)
 
 ### Add new Book 
 
-![Screenshot (3694)](https://github.com/maran9335/Java-project/assets/109018976/e70fd1c9-fd49-447e-94e8-4aeda8aa6a92)
+![Screenshot (3697)](https://github.com/maran9335/Java-project/assets/109018976/1cf1ff95-57bf-4488-8b59-cb206cb7f1ee)
 
 ### MySQL Database
-![Screenshot (3695)](https://github.com/maran9335/Java-project/assets/109018976/cf053e5e-9c2c-4279-8eb5-68e62a4ebd50)
 
 
+![Screenshot (3698)](https://github.com/maran9335/Java-project/assets/109018976/a6d623fd-e27d-4d4a-8c56-12a870100175)
 
 
