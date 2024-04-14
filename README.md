@@ -6,9 +6,9 @@
 
 **Client:** HTML,BOOTSTRAP
 
-**Server:** JAVA,SPRINGBOOT
+**Server:** JAVA,SPRINGBOOT(localhost:1001)
 
-**Database:** MYSQL
+**Database:** MYSQL(
 
 ## ScreenShots
 ### HOME PAGE
